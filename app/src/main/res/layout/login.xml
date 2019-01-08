@@ -14,10 +14,11 @@
         />
     <EditText
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:layout_hint="your name"
+        />
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="SEND
-"/>
+        android:text="SEND"/>
 </LinearLayout>
