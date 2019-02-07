@@ -63,9 +63,9 @@
         android:id="@+id/movieguytextView"
         android:layout_width="match_parent"
         android:layout_height="176dp"
-        android:layout_marginBottom="556dp"
+        android:layout_marginBottom="564dp"
         android:background="@drawable/rectangle22"
-        android:text="TextView"
+        android:text=""
         app:layout_constraintBottom_toBottomOf="parent"
         tools:layout_editor_absoluteX="0dp" />
 
