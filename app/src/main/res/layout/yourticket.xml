@@ -32,7 +32,8 @@
         android:background="@drawable/rectangle22"
         android:text="TextView"
         app:layout_constraintBottom_toBottomOf="parent"
-        tools:layout_editor_absoluteX="0dp" />
+        tools:layout_editor_absoluteX="0dp"
+        tools:ignore="MissingConstraints" />
 
     <ImageView
         android:id="@+id/yourticket"
