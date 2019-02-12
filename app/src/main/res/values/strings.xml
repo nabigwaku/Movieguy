@@ -3,4 +3,5 @@
     <string name="confirm">CONFIRM</string>
     <string name="todo">TODO</string>
     <string name="total_amount">Total Amount :</string>
+    <string name="confirmbutton">Button</string>
 </resources>
